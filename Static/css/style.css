@@ -1,0 +1,42 @@
+ul{
+    list-style-type: none;
+    background-color: blue; ;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 5px;
+    display: block;
+    color: antiquewhite;
+    font-size: 30px;
+}
+li a:hover{
+    background-color: black;
+
+}
+.fruits{
+    background-color: #6b0a0a;
+    border: 25px dot-dot-dash  ;
+    margin: 10px;
+    padding: 2px;
+    text-align: center ;
+    font-family: "Droid Sans Mono";
+}
+.cars{
+       background-color: #503183;
+    border: 16px double   ;
+    margin: 8px;
+    padding: 4px;
+    text-align: center ;
+    font-family: "Droid Sans Mono", serif;
+}
+.FRUITS{
+       background-color: darkslategrey;
+    border: 10px dotted   ;
+    margin: 20px;
+    padding: 2px;
+    text-align: center ;
+    font-family: "Droid Sans Mono";
+}
